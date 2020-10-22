@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Employee_exp_9{
+public class Employeeexp9{
     public static void main(String [] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("For which Designation Do you like calculate pay slip");
