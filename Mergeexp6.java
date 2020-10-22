@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Merge_exp_6
+public class Mergeexp6
 {
 	public static void main(String args[])
 	{
