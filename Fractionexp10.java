@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Fraction_exp_10
+public class Fractionexp10
 {
 	public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);
