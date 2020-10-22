@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Dice_exp_7
+public class Diceexp7
 {
 	public static void main(String[] args) {
 	    Random rn=new Random();
